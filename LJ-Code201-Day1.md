@@ -1,6 +1,3 @@
-# learning-journal
-learning-journal
-
 # LJ Code 201-Day 1
 
 In the past two days, I've learned how to use command line to create a directory.
